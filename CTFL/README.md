@@ -3,7 +3,7 @@
 CTFL is a fast, accurate, robust and interpretable contribution estimation system, as described in the paper.
 
 <p align="center">
-  <img src="./figs/framework.pdf" alt="drawing" width="500"/>
+  <img src="CTFL/figs/framework.pdf" alt="drawing" width="500"/>
 </p>
 
 * CTFL estimates participants' contributions efficiently and accurately by tracing the test performance gain using rule-based models. 
